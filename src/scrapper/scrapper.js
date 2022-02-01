@@ -111,7 +111,7 @@ export class Scrapper{
         let data = 'Question Link, Question,Answer Count,Upvotes,Count\n';
         for (let q in this.questions) {
             
-            data += `${this.questions[q].questionLink},${this.questions[q].title?.replace(',', ' ')},${this.questions[q].answerCount},${this.questions[q].upvotes},${this.questions[q].count}\n`;
+            data += `'${this.questions[q].questionLink}',${this.questions[q].title?.replace(',', ' ')},${this.questions[q].answerCount},${this.questions[q].upvotes},${this.questions[q].count}\n`;
         }
         fs.writeFileSync(`./data.csv`, data, "utf-8");
     }
