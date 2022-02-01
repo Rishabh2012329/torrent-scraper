@@ -1,104 +1,59 @@
-Question Link, Question,Answer Count,Upvotes,Refrenced Count
-/questions/70936158/remove-first-two-lines-last-two-lines-and-space-from-file-and-add-quotes-on-eac,Remove first two lines  last two lines and space from file and add quotes on each line and replace newline with commas in shell script,1,0,1
-/questions/70936154/grafana-version-upgrade,Grafana Version Upgrade,0,0,1
-/questions/70936153/aws-java-api-to-access-ec2-policy-inside-the-spring-boot-application-running-in,Aws Java api to access Ec2 policy inside the spring boot application running in aws,0,0,1
-/questions/70936151/how-to-get-my-username-before-dollar-in-linux-terminal,How to get my username before dollar $ in linux terminal?,0,0,1
-/questions/70936148/unscheduling-upload-firebase-analytics-ionic,Unscheduling upload firebase analytics ionic,0,0,1
-/questions/70936146/angular-material-passing-data-from-one-component-to-another,Angular material : passing data from one component to another,0,0,1
-/questions/70936145/diagonal-difference-in-python,Diagonal difference in Python,2,1,1
-/questions/70936144/how-to-set-rgb-value-in-python,How to set RGB value in Python?,2,0,1
-/questions/70936142/filereader-onload-is-failing-second-even-with-different-file-name,filereader onload is failing second even with different file name,0,1,1
-/questions/70936141/azure-function-error-binaryformatter-serialization-and-deserialization-are-dis,Azure function error : BinaryFormatter serialization and deserialization are disabled within this application,0,0,1
-/questions/70936140/i-am-trying-to-make-a-pointcut-but-its-giving-an-exception,I am trying to make a pointcut. but its giving an Exception,1,0,1
-/questions/70936137/how-to-send-push-notification-to-android-device-with-user-details-by-calling-sto,How to send Push Notification to android device with user details by calling stored proc using asp.net core web api +sql server,0,0,1
-/questions/70936134/flutter-webview-razorpay-netbanking-issue,Flutter webview Razorpay netbanking issue,0,1,1
-/questions/70936133/insert-extra-columns-to-match-a-fixed-predefined-header-row,Insert extra columns to match a fixed predefined header row,0,0,1
-/questions/70936129/how-to-change-placeholder-text-for-search-box-in-react-admin,How to change placeholder text for search box in react-admin?,0,0,1
-/questions/70936126/get-count-of-a-value-that-repeats-only-in-different-idss,Get count of a value that repeats ONLY in different IDSs,1,0,1
-/questions/70936127/nuxt-js-website-does-not-load-on-only-iphone-working-fine-everywhere-else,Nuxt JS website does not load on only iPhone  working fine everywhere else,0,0,1
-/questions/70936122/how-to-have-custom-colors-in-ng2-charts-and-chart-js-according-to-data,How to have custom colors in ng2-charts and chart.js according to data?,0,1,1
-/questions/70936120/android-studio-disconnects-from-physical-device,Android Studio Disconnects From Physical Device,0,2,1
-/questions/70936118/how-to-make-python-delete-lines-containing-strings-over-a-maximum-character-limi,How to make Python delete lines containing strings over a maximum character limit?,4,1,1
-/questions/70936117/combining-multiple-read-write-binders,Combining multiple read/write Binders,1,1,1
-/questions/70936112/install-taurus-task-fails-due-to-error-unable-to-locate-executable-file-bzt,Install Taurus Task fails due to error: Unable to locate executable file: 'bzt',0,1,1
-/questions/70936111/redraw-a-single-shape-or-changed-shape-only-instead-of-all-shapes,Redraw a Single Shape or Changed Shape Only Instead of All Shapes,0,1,1
-/questions/70936110/how-to-close-file-explorer-window-using-lotus-script,How to close file explorer window using lotus script,0,1,1
-/questions/70936107/convert-string-in-a-existing-dictionary-to-list,Convert string in a existing dictionary to list,1,0,1
-/questions/70936103/state-variable-in-ontapgesture-not-getting-updated,@State variable in onTapGesture not getting updated,0,1,1
-/questions/70936102/why-does-let-in-a-f-constructor-create-a-private-member-instead-of-a-local-va,Why does "let" in a F# constructor create a private member instead of a local variable,0,1,1
-/questions/70936099/flutter-when-i-fetch-data-from-api-showing-statuscode-403failed-to-load-post,Flutter. When I fetch data from API showing StatusCode 403(Failed to load post)?,1,0,1
-/questions/70936097/cannot-move-out-of-x-which-is-behind-a-shared-reference-when-using-box,Cannot move out of `*X` which is behind a shared reference when using Box,0,2,1
-/questions/70936095/typescript-variable-x-is-used-before-being-assigned,typescript variable 'x' is used before being assigned,0,-2,1
-/questions/70936091/not-able-to-replace-n-using-regex-replace-in-pyspark,not able to replace \n using regex_replace in pyspark,2,1,1
-/questions/70936088/set-and-get-string-using-shared-preferences,Set and Get String using Shared Preferences,0,0,1
-/questions/70936086/what-should-be-the-type-of-state-in-pinia-store-using-nuxt,What should be the type of state in pinia store using nuxt,0,0,1
-/questions/70936084/react-table-setfilter-with-custom-filter-function,react-table setFilter with custom filter function?,0,0,1
-/questions/70936082/scopedreader-has-changed-to-widgetref-on-flutter-riverpod-but-state-is-where,ScopedReader has changed to WidgetRef on flutter_riverpod   but state is where?,0,0,1
-/questions/70936080/remove-the-ending-of-a-column-in-pandas-dataframe-starting-from-a-specific-subst,Remove the ending of a column in pandas dataframe starting from a specific substring,2,0,1
-/questions/70936079/performance-of-saas-application-angular-net-azure-aks,Performance of SaaS application - Angular + .NET (Azure AKS),0,0,1
-/questions/70936078/how-to-pass-a-variable-inside-the-function,How to pass a variable inside the function,0,0,1
-/questions/70936076/loops-in-pl-sql-whats-missing-in-this-loop-is-this-loop-correctly-written,Loops in PL/SQL. What's missing in this loop? Is this loop correctly written?,1,0,1
-/questions/70936075/display-data-in-text-boxes-by-clicking-into-datagridview-to-update-or-save-the-d,Display data in text boxes by clicking into DataGridview to update or save the data C# with MySql db,0,0,1
-/questions/70936074/how-to-set-filename-while-writing-in-pyspark,How to set filename while writing in Pyspark?,0,0,1
-/questions/70936073/how-to-make-my-program-display-always-on-top,How to make my Program Display Always on top,1,0,1
-/questions/70936070/how-do-i-get-the-sum-of-fields-in-mongodb,How do i get the sum of fields in mongodb?,1,0,1
-/questions/70936067/swift-jwt-decoding-issue,Swift-JWT decoding issue,0,0,1
-/questions/70936065/how-to-prevent-enddrawer-closing-automatically-by-outside-click-in-flutter-like,How to prevent EndDrawer closing automatically by outside click in flutter like barrier dismissible in Dialog,0,0,1
-/questions/70936064/is-there-is-a-way-i-can-create-a-unit-test-for-authorizationbehavior-api-code-in,Is there is a way I can create a unit test for AuthorizationBehavior api code in asp.net DDD clean architecture?,0,0,1
-/questions/70936059/setup-edx-on-your-local-system-ubuntu,Setup edx on your local system. (Ubuntu),0,0,1
-/questions/70936058/cronjob-issue-in-nest-js,Cronjob issue in nest js,0,0,1
-/questions/70936055/how-do-i-use-the-function-format,How do i use the function format()? [closed],4,-5,1
-/questions/70936052/why-xdg-open-dont-open-slack,why xdg-open don't open slack?,0,0,1
-/questions/70936550/how-do-i-get-the-query-which-executed-more-time-from-a-log-file,how do i get the query which executed more time from a log file,0,0,1
-/questions/70936548/firebase-cloud-messaging-on-ios-applicationdidregisterforremotenotificationsw,Firebase Cloud Messaging on iOS: 'application:didRegisterForRemoteNotificationsWithDeviceToken' must be present  but is never called,0,0,1
-/questions/70936542/is-it-guaranteed-that-the-term-version-appears-in-the-output-of-java-version,Is it guaranteed that the term "version" appears in the output of `java -version`?,0,0,1
-/questions/70936539/set-footer-text-to-all-embeds-discord-js,Set footer text to ALL embeds (Discord.JS),0,0,1
-/questions/70936538/caddyfile-how-to-run-multiple-listeners-under-the-same-server,Caddyfile - How to run multiple listeners under the same server?,0,0,1
-/questions/70936535/unable-to-fetch-post-request-in-azure-devops-agentless-invoke-rest-api,Unable to fetch POST request in Azure devops Agentless invoke REST API,0,0,1
-/questions/70936534/bump-python-package-version-upon-main-branch-merge,Bump Python package version upon main branch merge,0,0,1
-/questions/70936533/i-was-given-to-implement-this-function-name-operator-name-const-using-ope,I was given to implement this function: name operator + (name const &) using operator+() in below program,1,0,1
-/questions/70936525/assignmentmavens-for-writing-technical-specification,AssignmentMavens - For Writing Technical Specification,0,-1,1
-/questions/70936524/value-being-constant-in-swiftui,value being constant in swiftUI,0,0,1
-/questions/70936521/fetch-last-available-value-if-there-is-null,Fetch last available value if there is NULL,0,0,1
-/questions/70936518/how-can-you-mock-a-static-methode-using-wrapper,How can you Mock a static methode using wrapper?,0,0,1
-/questions/70936517/pandas-conditional-filter-on-same-column,Pandas Conditional filter on same column,1,0,1
-/questions/70936516/how-to-kill-thread-in-net5-6,How to kill thread in .NET5/6,0,0,1
-/questions/70936512/mobile-application-architecture-difference-between-high-load-and-simple-systems,Mobile application architecture: Difference between high-load and simple systems?,0,0,1
-/questions/70936509/react-how-to-setstate-in-child-component-from-parent-component,React: How to setState in child component from parent component?,0,0,1
-/questions/70936508/i-have-to-get-a-dependend-dropdown-while-using-the-api-i-cant-get-it-can-any-one,i have to get a dependend dropdown while using the api i cant get it can any one clear it.i am getting a error while i am trying,0,0,1
-/questions/70936507/modify-output-path-in-webpack-neutrino-csssyntaxerror-unknown-word,modify output path in webpack/ neutrino CssSyntaxError Unknown Word,0,0,1
-/questions/70936506/book-clone-one-navigation-controller-bar-and-items-in-multiple-view-controllers,Book clone: One navigation controller bar and items in multiple view controllers and passing objects using Notification center,0,0,1
-/questions/70936503/make-mui-collapse-component-take-up-view-width,Make MUI Collapse Component take up view width,0,0,1
-/questions/70936500/layout-fix-sidebar-and-header-antd,Layout fix sidebar and header Antd,0,0,1
-/questions/70936499/how-to-use-infopopupview-to-implement-popup-on-a-row-of-a-datagrid-using-xaml,How to use InfoPopupView to implement popup on a row of a Datagrid using xaml?,0,0,1
-/questions/70936496/how-to-add-secondary-vertical-axis-to-the-same-barchart-in-rdlc-report,How to add secondary vertical axis to the same barchart in rdlc report,0,0,1
-/questions/70936494/how-to-create-sub-dropdown-menu-in-flutter-drawer,how to create sub dropdown menu in flutter drawer,0,0,1
-/questions/70936488/mysql-database-integration,Mysql database integration,0,0,1
-/questions/70936486/getting-websockets-in-spring-to-work-with-postman-for-testing,Getting Websockets in Spring to work with PostMan for testing,0,0,1
-/questions/70936484/trying-to-store-values-and-loop-calculations-from-a-function,Trying to store values and loop calculations from a function,1,0,1
-/questions/70936479/aws-guard-duty-supressed-findings,AWS guard duty supressed Findings,0,0,1
-/questions/70936478/creating-lists-while-code-is-running-and-adding-them-to-an-list-parent,Creating lists while code is running and adding them to an List Parent,1,0,1
-/questions/70936477/memory-problem-when-viewing-pdfdocument-swift,Memory problem when viewing PDFDocument Swift,0,0,1
-/questions/70936475/runtimeerror-dictionary-changed-size-during-iteration-but-its-not-changed-in,"RuntimeError: dictionary changed size during iteration" but it's not changed in the loop,0,0,1
-/questions/70936473/at-least-one-of-the-optional-fields,At least one of the optional fields,1,0,1
-/questions/70936472/flutter-get-it-using-multiple-apis-with-dio-get-it-package,Flutter Get It - Using Multiple APIs with Dio & Get It Package,0,0,1
-/questions/70936471/how-to-run-an-if-statement-asynchronously,How to run an if statement asynchronously,1,0,1
-/questions/70936470/group-by-django-queryset-by-a-foreignkey-related-field,Group By Django queryset by a foreignkey related field,0,0,1
-/questions/70936469/multiple-post-from-a-save-button-handling-in-a-angular-application,Multiple Post from a SAVE button handling in a Angular application,0,0,1
-/questions/70936468/ionic-position-errorapplication-does-not-have-sufficient-geolocation-permissi,Ionic - Position error:application does not have sufficient geolocation permission,0,0,1
-/questions/70936467/i-want-to-get-new-or-old-values-dynamically-in-oracle-trigger-pl-sql,I want to get new or old values dynamically in oracle Trigger pl/sql,0,0,1
-/questions/70936466/how-to-set-timezone-in-local-variable-using-python,how to set timezone in local variable using python?,0,0,1
-/questions/70936463/how-to-modify-a-redux-variable-state-from-react-component-with-a-button-click,How to modify a redux variable state from react component with a button click?,0,0,1
-/questions/70936462/trouble-getting-list-of-words-given-a-list-of-available-letters-for-each-charact,Trouble getting list of words given a list of available letters for each character (Python),0,1,1
-/questions/70936461/how-to-get-mongodb-collections-based-on-two-column-values,How to get mongodb collections based on two column values,0,0,1
-/questions/70936457/how-to-fix-ceph-warning-storage-filling-up,how to fix ceph warning "storage filling up",0,0,1
-/questions/70936456/how-to-write-the-regex-which-detects-9-digit-number-only-and-should-not-consider,How to write the regex which detects 9 digit number only and should not consider if it has a X or x preceded to that number and mask first 5 digit?,0,0,1
-/questions/70936455/anyone-knows-if-we-can-get-the-step-function-arn-from-lambda,Anyone knows if we can get the step function arn from lambda,0,0,1
+Question Link, Question,Answer Count,Upvotes,Count
 /questions/70936454/how-to-access-formstate-errors-when-using-formprovider,How to access formState.errors when using FormProvider,0,0,1
 /questions/70936452/i-want-the-circles-to-be-filled-as-in-the-picture-below-slider-android-java,I want the circles to be filled as in the picture below. slider. android java,0,0,1
-/questions/70936451/hi-id-like-to-ask-a-question-about-directory-in-python,Hi. I'd like to ask a question about directory in python,0,0,1
-/questions/70936447/flutter-onpressed-utilize-full-index-from-list,Flutter Onpressed Utilize Full Index from List,0,0,1
+/questions/70936451/hi-id-like-to-ask-a-question-about-directory-in-python,Hi. I'd like to ask a question about directory in python [duplicate],0,0,1
+/questions/70936447/flutter-onpressed-utilize-full-index-from-list,Flutter Onpressed Utilize Full Index from List,1,0,1
 /questions/70936444/display-pdf-in-react-js-from-c-sharp-api,display pdf in react js from C# api,0,0,1
+/questions/70936442/if-string-is-immutable-in-java-then-why-does-replaceall-method-can-change-the,If String is immutable in java  then why does replaceAll() method can change the String? [duplicate],0,0,1
+/questions/70936439/bulk-load-write-data-from-sql-server-to-azure-table-storage-using-ssis,Bulk load/write data from SQL server to Azure Table Storage using SSIS,0,0,1
+/questions/70936438/use-websocket-in-nest-js-and-angular,Use websocket in Nest js and Angular,0,0,1
+/questions/70936436/post-api-419-unknown-status-error-solution-in-react-js,POST (api) 419 (unknown status) error solution in REACT JS,0,0,1
+/questions/70936433/microsoft-sqlserver-type-version-11-0-0-0-is-existing-application-contains-but-n,microsoft.sqlserver.type Version=11.0.0.0 is existing application contains but need to upgrade it version=14.0.0.0 how to possible it,0,0,1
+/questions/70936430/how-to-get-the-file-manager-item-id-of-an-assignment-in-moodle-using-the-web-ser,How to get the file manager item id of an assignment in Moodle using the Web service API,0,0,1
+/questions/70936426/how-to-prevent-losing-line-items-inside-cart-when-using-apollo-nextjs-with-ssr,How To Prevent Losing Line Items Inside Cart When Using Apollo  Nextjs With SSR?,0,0,1
+/questions/70936425/swapping-two-values-in-python-dataframe-after-checking-a-condition,Swapping two values in python DataFrame after checking a condition [duplicate],0,0,1
+/questions/70936423/asp-net-core-background-service-stops-even-if-idle-timeout-is-0-and-start-mode,ASP .NET Core background service stops even if idle timeout is 0 and start mode is AlwaysRunning in iis,1,0,1
+/questions/70936422/native-script-webview-interface-plugin-unable-to-find-local-resource,native script: WebView Interface plugin unable to find local resource,0,0,1
+/questions/70936421/nomethoderror-in-tutorscontrollercreate-undefined-method-supert-for-tutor,NoMethodError in TutorsController#create undefined method `supert=' for #<Tutor:0x00007fa5593f99f8> Did you mean? super= super super super?,0,-1,1
+/questions/70936420/how-do-you-guys-start-your-personal-projects,How do you guys start your personal projects?,0,-1,1
+/questions/70936418/can-xcode-check-memory-leaks-like-valgrind-does-in-c-code-macos-monterey-12,Can Xcode check memory leaks like Valgrind Does in C++ code? (MacOS Monterey 12.1 M1),0,0,1
+/questions/70936416/using-continue-statement-in-javascript,Using continue Statement in JavaScript,0,0,1
+/questions/70936415/how-i-can-add-export-release-feature-in-redmine,How I can add 'export release' feature in Redmine,0,0,1
+/questions/70936413/why-the-prettier-code-formatter-stopped-formatting-the-code-in-vs-code,why the prettier code formatter stopped formatting the code in VS Code?,1,1,1
+/questions/70936411/filtering-using-having-by-clause-result-in-unknown-column-in-having-clause,filtering using having by clause result in unknown column in having clause,1,0,1
+/questions/70936410/kotlin-sam-interface-and-method-reference,Kotlin SAM interface and method reference,0,0,1
+/questions/70936409/kotlin-gradle-project,Kotlin Gradle Project,0,0,1
+/questions/70936408/how-to-calculate-percentage-of-each-class-variable-after-grouping-it-by-another,How to calculate percentage of each class variable after grouping it by another variable?,1,0,1
+/questions/70936407/unable-to-change-the-publicpath-in-vue-3-with-vite-js,Unable to change the publicPath in Vue 3 with Vite.js,1,0,1
+/questions/70936405/the-app-crashes-when-i-pick-image-from-gallery-the-second-time-have-tried-to-ca,The app crashes when i pick image from gallery the second time. Have tried to call System.gc() to clear the memory  but didn't worked,0,1,1
+/questions/70936403/creating-a-dynamic-chart-in-angular-using-the-data-in-json-file,Creating a dynamic chart in angular using the data in json file,0,0,1
+/questions/70936402/typescript-why-spread-is-not-safe,Typescript: why spread is not safe?,1,1,1
+/questions/70936401/store-all-response-of-request-module-in-database,Store all response of request module in database,0,0,1
+/questions/70936400/sql-server-raiseerror-throws-a-syntax-error,SQL Server: RaiseError throws a syntax error,1,0,1
+/questions/70936399/how-to-set-image-and-button-in-qr-code-scanner-screen,How to set Image and Button In qr Code scanner Screen?,0,0,1
+/questions/70936396/get-all-students-who-has-got-more-marks-than-the-average-marks-of-that-class,get all students who has got more marks than the average marks of that class,2,0,1
+/questions/70936394/wordpress-read-qr-code-data-and-save-them-to-database,Wordpress Read QR code data and save them to database,0,-1,1
+/questions/70936392/how-to-debug-or-possibly-simply-compile-asp-net-from-only-command-line,How to debug or possibly simply Compile Asp.NET from only command line,0,0,1
+/questions/70936388/cat-with-multiquery-is-not-working-when-creating-and-inserting-data-into-tempo,Cat with --multiquery is not working when creating and inserting data into Temporary table clickhouse,0,0,1
+/questions/70936387/how-to-export-unnamed-portal-1-to-csv-file-in-postgresql-function-output,How to export "<unnamed portal 1> to csv file in postgresql - function output,0,0,1
+/questions/70936386/position-relative-or-absolute-and-text-align-left,Position relative or absolute and text align left,1,0,1
+/questions/70936385/in-reference-to-an-object-color-height-weight-and-name-are-all-examples,In reference to an object  color, height, weight and name are all examples [closed],0,-3,1
+/questions/70936384/when-ever-i-open-terminal-in-visual-studio-code-the-terminal-is-blank-and-cant-t,when ever i open terminal in visual studio code the terminal is blank and cant type a single word in it,1,0,1
+/questions/70936382/odoo13-ce-module-sale-order-what-inherit-id-do-i-need-to-inherit-quotation-tr,Odoo13-CE: Module: sale.order: What inherit_id do I need to inherit quotation tree/list view?,0,0,1
+/questions/70936378/circleci-build-fails-when-setting-up-add-ssh-keys-config,CircleCI build fails when setting up add_ssh_keys config,1,0,1
+/questions/70936377/how-to-expose-objective-c-header-file-to-swift-in-swift-static-library,how to expose Objective C header file to swift in swift static library?,0,0,1
+/questions/70936371/why-ckeditor-content-stored-in-database-do-not-display-as-html-in-php,why ckeditor content stored in database do not display as html in php,2,1,1
+/questions/70936370/how-to-add-a-additional-dense-layer-im-getting-value-error,how to add a additional dense layer i'm getting value error,0,0,1
+/questions/70936366/token-management-in-karate-parallel-execution,Token management in Karate parallel execution,0,0,1
+/questions/70936365/why-isnt-the-sequencer-repeating-the-autopage,Why isn't the sequencer repeating the AutoPage?,1,0,1
+/questions/70936364/error-in-publish-blazor-wams-version-net5-after-install-visual-studio-2022,error in publish blazor-wams version.net5 after install visual studio 2022,0,0,1
+/questions/70936363/add-product-to-cart-with-price-override,Add product to cart with price override?,0,0,1
+/questions/70936362/swift-javascriptcore-call-function-return-undefined-but-python-execjs-return-cor,Swift JavaScriptCore call function return undefined but Python execjs return correct result,0,0,1
+/questions/70936357/how-to-check-two-excels-in-a-validation,How to check two excels in a validation?,1,0,1
+/questions/70936356/escaped-characters-are-not-working-in-kotlin,Escaped characters are not working in Kotlin,0,0,1
+/questions/70936353/reduce-operation-in-spark-with-constant-values-gives-a-constant-result-irrespect,Reduce operation in Spark with constant values gives a constant result irrespective of input,1,2,1
+/questions/70936352/cant-resolve-dmg-license-in-build,Can't resolve 'dmg-license' in build,0,0,1
+/questions/70936350/postgres-query-to-hql-select-t-from-tablename-t-where-t-isactive-true-order-by,Postgres query to HQL: select t from TableName t where t.isActive=true order by t.extension->'desc',0,0,1
 /questions/70936345/what-are-the-logs-i-should-write-for-this-code,what are the logs I should write for this code?,1,-1,1
 /questions/70936343/kendo-angular-scheduler-how-to-add-breaks-like-coffee-lunch,Kendo Angular Scheduler: How to add breaks (like coffee  lunch),0,0,1
 /questions/70936341/is-it-possible-get-client-tenant-user-role-as-claim-on-app-tenant-ad-token,Is it possible get Client tenant user role as claim on app tenant ad token,1,1,1
@@ -112,14 +67,14 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70936330/form-doesnt-submit-properly-after-reload,Form doesn't submit properly after reload,0,-1,1
 /questions/70936329/performance-issue-in-an-web-page,Performance issue in an web page,1,0,1
 /questions/70936328/google-cloud-storage-upload-method-is-returning-signed-url-django-python,Google Cloud storage upload method is returning signed URL. Django python,1,0,1
-/questions/70936326/split-files-to-key-value-pair,split files to key value pair,1,1,1
-/questions/70936325/phpmyadmin-inserting-data-twice,PHPMyAdmin Inserting data twice,0,0,1
+/questions/70936326/split-files-to-key-value-pair,split files to key value pair,2,1,1
+/questions/70936325/when-i-insert-data-it-is-storing-twice-in-phpmyadmin,When i Insert data it is storing twice in phpmyadmin,1,0,1
 /questions/70936323/am-finding-this-error-in-my-node-express-application-its-saying-a-function-have,am finding this error in my node express application its saying a function have named it sendMailer is not a function. this is when i trigger sent,1,0,1
 /questions/70936322/trying-to-move-the-data-from-from-kafka-topic-to-mysql-db-using-jdbc-connector,trying to move the data from from kafka topic to mysql db using jdbc connector,0,0,1
 /questions/70936321/teradata-to-snowflake-migration,Teradata to Snowflake Migration,0,0,1
-/questions/70936319/application-hangs-in-memory-in-android-studio-after-unloading-from-memory,Application hangs in memory in android studio after unloading from memory,0,0,1
+/questions/70936319/application-hangs-in-memory-in-android-studio-after-unloading-from-memory,Application hangs in memory in android studio after unloading from memory,0,1,1
 /questions/70936317/how-to-make-different-background-colors-top-and-bottom-for-bouncingscrollphysics,How to make different background colors top and bottom for BouncingScrollPhysics in ios?,0,0,1
-/questions/70936316/unable-to-use-json-array-for-azure-function,Unable to use JSON array for Azure Function,2,0,1
+/questions/70936316/unable-to-use-json-array-for-azure-function,Unable to use JSON array for Azure Function,2,1,1
 /questions/70936313/validate-that-particular-phone-number-exists-in-my-sql-server-db,Validate that particular phone number exists in my SQL Server DB,0,0,1
 /questions/70936310/cant-create-new-table-in-mysql-used-foreign-key,Can't create new table in Mysql used foreign key,1,0,1
 /questions/70936308/openid-configuration-between-forgerock-and-aws-cognito,OpenID configuration between Forgerock and AWS cognito?,0,0,1
@@ -128,7 +83,7 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70936304/get-push-notifications-when-phpmyadmin-table-row-changes-flutter,Get push notifications when PhpMyAdmin table row changes (Flutter),0,0,1
 /questions/70936302/how-do-you-know-what-previous-control-is-in-cwinform,How do you know what previous control is in c#(winform)?,0,-1,1
 /questions/70936300/i-am-unable-to-install-packages-in-atom,I am unable to install packages in Atom,0,0,1
-/questions/70936299/ui-is-stuck-in-splash-screen-in-flutter,UI is stuck in splash Screen in flutter,1,0,1
+/questions/70936299/ui-is-stuck-in-splash-screen-in-flutter,UI is stuck in splash Screen in flutter,1,1,1
 /questions/70936296/integer-sorting-with-js-by-taking-input-from-user,Integer Sorting with Js by taking input from user [duplicate],0,-1,1
 /questions/70936295/tesseract-is-not-installed-or-its-not-in-your-path-error-when-run-with-wsgi-a,"tesseract is not installed or it's not in your PATH" error when run with wsgi and nginx,0,-1,1
 /questions/70936294/c-space-or-t-at-the-end-of-printf-dont-show-up,C space or \t at the end of printf don't show up,0,0,1
@@ -144,61 +99,111 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70936266/how-to-change-the-background-color-with-datatrigger-when-the-value-of-datagrid-c,How to change the background color with DataTrigger when the value of DataGrid changes?,0,2,1
 /questions/70936262/swiftui-pass-a-string-as-an-argument-in-a-function-called-in-a-different-view,SwiftUI Pass a String as an argument in a function called in a different view,0,0,1
 /questions/70936261/oauth-2-o-client-credential-work-flow-implementation,oAuth 2.O client credential work flow implementation,0,0,1
+/questions/70936563/model-dont-get-objects-in-clean-fieldname-functions,Model don't get objects in clean_<fieldname> functions,0,0,1
+/questions/70936562/how-to-write-this-in-c-language,How to write this in C language [closed],0,-5,1
+/questions/70936559/getting-this-error-since-long-time-site-didnt-send-anydata,Getting this error since long time "Site didn't send anydata",0,-2,1
+/questions/70936558/set-up-reverse-proxy-for-node-js-using-nginx-on-different-location,Set up reverse proxy for node.js using nginx on different location,0,0,1
+/questions/70936554/quiz-questions-dont-appear-unless-function-run-in-console,Quiz questions don't appear unless function run in console,1,0,1
+/questions/70936550/how-do-i-get-the-query-which-executed-more-time-from-a-log-file,how do i get the query which executed more time from a log file,0,0,1
+/questions/70936548/firebase-cloud-messaging-on-ios-applicationdidregisterforremotenotificationsw,Firebase Cloud Messaging on iOS: 'application:didRegisterForRemoteNotificationsWithDeviceToken' must be present  but is never called,0,0,1
+/questions/70936542/is-it-guaranteed-that-the-term-version-appears-in-the-output-of-java-version,Is it guaranteed that the term "version" appears in the output of `java -version`?,1,0,1
+/questions/70936539/set-footer-text-to-all-embeds-discord-js,Set footer text to ALL embeds (Discord.JS),0,0,1
+/questions/70936538/caddyfile-how-to-run-multiple-listeners-under-the-same-server,Caddyfile - How to run multiple listeners under the same server?,0,0,1
+/questions/70936535/unable-to-fetch-post-request-in-azure-devops-agentless-invoke-rest-api,Unable to fetch POST request in Azure devops Agentless invoke REST API,0,0,1
+/questions/70936534/bump-python-package-version-upon-main-branch-merge,Bump Python package version upon main branch merge,0,0,1
+/questions/70936533/i-was-given-to-implement-this-function-name-operator-name-const-using-ope,I was given to implement this function: name operator + (name const &) using operator+() in below program,1,1,1
+/questions/70936525/assignmentmavens-for-writing-technical-specification,AssignmentMavens - For Writing Technical Specification,0,-1,1
+/questions/70936524/value-being-constant-in-swiftui,value being constant in swiftUI,0,0,1
+/questions/70936521/fetch-last-available-value-if-there-is-null,Fetch last available value if there is NULL,0,0,1
+/questions/70936518/how-can-you-mock-a-static-methode-using-wrapper,How can you Mock a static methode using wrapper?,0,0,1
+/questions/70936517/pandas-conditional-filter-on-same-column,Pandas Conditional filter on same column,1,0,1
+/questions/70936516/how-to-kill-thread-in-net5-6,How to kill thread in .NET5/6,2,0,1
+/questions/70936512/mobile-application-architecture-difference-between-high-load-and-simple-systems,Mobile application architecture: Difference between high-load and simple systems?,0,1,1
+/questions/70936509/react-how-to-setstate-in-child-component-from-parent-component,React: How to setState in child component from parent component?,2,0,1
+/questions/70936508/i-have-to-get-a-dependend-dropdown-while-using-the-api-i-cant-get-it-can-any-one,i have to get a dependend dropdown while using the api i cant get it can any one clear it.i am getting a error while i am trying,0,0,1
+/questions/70936507/modify-output-path-in-webpack-neutrino-csssyntaxerror-unknown-word,modify output path in webpack/ neutrino CssSyntaxError Unknown Word,0,0,1
+/questions/70936506/book-clone-one-navigation-controller-bar-and-items-in-multiple-view-controllers,Book clone: One navigation controller bar and items in multiple view controllers and passing objects using Notification center,0,0,1
+/questions/70936503/make-mui-collapse-component-take-up-view-width,Make MUI Collapse Component take up view width,0,0,1
+/questions/70936500/layout-fix-sidebar-and-header-antd,Layout fix sidebar and header Antd,0,0,1
+/questions/70936499/how-to-use-infopopupview-to-implement-popup-on-a-row-of-a-datagrid-using-xaml,How to use InfoPopupView to implement popup on a row of a Datagrid using xaml?,0,1,1
+/questions/70936496/how-to-add-secondary-vertical-axis-to-the-same-barchart-in-rdlc-report,How to add secondary vertical axis to the same barchart in rdlc report,0,-1,1
+/questions/70936494/how-to-create-sub-dropdown-menu-in-flutter-drawer,how to create sub dropdown menu in flutter drawer,1,0,1
+/questions/70936488/mysql-database-integration,Mysql database integration,0,0,1
+/questions/70936486/getting-websockets-in-spring-to-work-with-postman-for-testing,Getting Websockets in Spring to work with PostMan for testing,0,0,1
+/questions/70936484/trying-to-store-values-and-loop-calculations-from-a-function,Trying to store values and loop calculations from a function,2,0,1
+/questions/70936479/aws-guard-duty-supressed-findings,AWS guard duty supressed Findings,0,0,1
+/questions/70936478/creating-lists-while-code-is-running-and-adding-them-to-an-list-parent,Creating lists while code is running and adding them to an List Parent,2,0,1
+/questions/70936477/memory-problem-when-viewing-pdfdocument-swift,Memory problem when viewing PDFDocument Swift,0,0,1
+/questions/70936475/runtimeerror-dictionary-changed-size-during-iteration-but-its-not-changed-in,"RuntimeError: dictionary changed size during iteration" but it's not changed in the loop,0,0,1
+/questions/70936473/at-least-one-of-the-optional-fields,At least one of the optional fields,0,0,1
+/questions/70936472/flutter-get-it-register-multiple-apis-in-repo,Flutter get_it - Register multiple APIs in repo,1,2,1
+/questions/70936471/how-to-run-an-if-statement-asynchronously,How to run an if statement asynchronously,2,0,1
+/questions/70936470/group-by-django-queryset-by-a-foreignkey-related-field,Group By Django queryset by a foreignkey related field,0,0,1
+/questions/70936469/multiple-post-from-a-save-button-handling-in-a-angular-application,Multiple Post from a SAVE button handling in a Angular application,0,0,1
+/questions/70936468/ionic-position-errorapplication-does-not-have-sufficient-geolocation-permissi,Ionic - Position error:application does not have sufficient geolocation permission,0,0,1
+/questions/70936467/i-want-to-get-new-or-old-values-dynamically-in-oracle-trigger-pl-sql,I want to get new or old values dynamically in oracle Trigger pl/sql,0,0,1
+/questions/70936466/how-to-set-timezone-in-local-variable-using-python,how to set timezone in local variable using python?,0,0,1
+/questions/70936463/how-to-modify-a-redux-variable-state-from-react-component-with-a-button-click,How to modify a redux variable state from react component with a button click?,0,0,1
+/questions/70936462/trouble-getting-list-of-words-given-a-list-of-available-letters-for-each-charact,Trouble getting list of words given a list of available letters for each character (Python),1,2,1
+/questions/70936461/how-to-get-mongodb-collections-based-on-two-column-values,How to get mongodb collections based on two column values,1,0,1
+/questions/70936457/how-to-fix-ceph-warning-storage-filling-up,how to fix ceph warning "storage filling up",0,0,1
+/questions/70936456/how-to-write-the-regex-which-detects-9-digit-number-only-and-should-not-consider,How to write the regex which detects 9 digit number only and should not consider if it has a X or x preceded to that number and mask first 5 digit?,0,-4,1
+/questions/70936455/anyone-knows-if-we-can-get-the-step-function-arn-from-lambda,Anyone knows if we can get the step function arn from lambda,0,0,1
+/questions/70936666/counter-in-module-typing-in-python3-ignore-the-items-with-value-0,Counter in module typing in python3 ignore the items with value 0,0,0,1
+/questions/70936664/metadata-generation-failed-while-installing-pyqt5,MetaData Generation Failed while installing PyQt5,0,0,1
+/questions/70936662/how-to-dont-pull-the-mouse,How to don't pull the mouse,0,0,1
+/questions/70936660/xml-not-found-in-android-module,XML not found in android module,0,0,1
+/questions/70936655/how-to-remove-3-huawei-slave-switches-from-stack,how to remove 3 huawei slave switches from stack?,0,0,1
+/questions/70936654/quit-indexed-stack-in-flutter,Quit Indexed Stack in Flutter,0,0,1
+/questions/70936650/what-is-this-pyrebase-error-and-how-can-i-fix-it,What is this pyrebase error and how can I fix it?,0,0,1
+/questions/70936645/using-basic-and-token-authentication-at-the-same-time-in-laravel,Using Basic and Token Authentication at the same time in Laravel,0,0,1
+/questions/70936644/how-to-use-conditional-rendering-and-redux-in-app-js-file,How to use Conditional Rendering and Redux in App js file?,0,0,1
+/questions/70936643/searchview-in-toolbar-the-second-icon-doesnt-appear-properly,SearchView in Toolbar: the second icon doesn't appear properly,0,0,1
+/questions/70936640/listview-pagination-and-get-parameters-on-the-next-page,Listview pagination and GET parameters on the next page,0,0,1
+/questions/70936639/filter-data-based-on-lookup-value-in-mongodb,Filter data based on lookup value in MongoDB,0,0,1
+/questions/70936638/thotkey-does-not-accept-altspace-combo,THotKey does not accept ALT+SPACE combo,0,0,1
+/questions/70936631/flutter-download-a-pdf-file-from-json-using-http,Flutter download a pdf file from JSON using http,0,0,1
+/questions/70936629/confusion-of-using-django-rest-frame-work,Confusion of using Django rest Frame work,0,0,1
+/questions/70936628/upload-files-and-get-its-download-link,Upload files and get it's download link,0,-1,1
+/questions/70936627/sql-statement-to-get-all-patient-with-no-appointment,SQL statement to get all patient with no appointment,1,-1,1
+/questions/70936624/plotting-using-plotline,Plotting using Plotline,0,0,1
+/questions/70936623/how-to-add-binary-dependencies-for-bundlerenv,How to add binary dependencies for bundlerEnv,0,0,1
+/questions/70936622/store-data-of-different-types-int-string-set-in-the-same-column-in-db-a-good,Store data of different types (int  String, Set) in the same column in DB a good idea?,0,-1,1
+/questions/70936620/how-to-remove-pod-spec-file-from-cocoapods-specs,How to remove pod spec file from CocoaPods / Specs,0,0,1
+/questions/70936616/setting-a-max-ios-deployment-target,Setting a max iOS deployment target,0,0,1
+/questions/70936615/why-does-this-an-internal-dictionary-variable-in-my-function-still-still-contain,Why does this an internal dictionary variable in my function still still contain key-value pairs from a previous function call? [duplicate],0,0,1
+/questions/70936614/submit-form-data-in-popup-using-asp-net-core-6-0-doesnt-send-ajax-request-to-co,Submit Form Data in popup using asp.net core 6.0 Doesn't send AJAX Request to Controller,0,0,1
+/questions/70936613/expand-array-object-in-one-pandas-column-to-multiple-columns,Expand array object in one pandas column to multiple columns,0,0,1
+/questions/70936612/how-can-i-reference-an-existing-codebuild-project-in-codepipeline-via-cdk,How can I reference an existing codebuild project in codepipeline via CDK?,0,0,1
+/questions/70936611/how-can-i-turn-on-2-dimmers,how can i turn on 2 dimmers?,0,0,1
+/questions/70936607/adding-custom-entity-type-in-crm-activity-for-selecting-in-relative-entity,Adding Custom Entity Type in CRM Activity for selecting in Relative Entity,0,0,1
+/questions/70936606/same-store-type-total,SAME STORE TYPE TOTAL,0,-1,1
+/questions/70936605/how-to-write-a-regex-for-a-date-time-string,How to write a regex for a date-time string,0,0,1
+/questions/70936603/why-does-vs-code-remote-wsl-launch-mstsc-exe-remote-desktop-connection,Why does VS Code remote WSL launch mstsc.exe (Remote Desktop Connection)?,0,0,1
+/questions/70936602/vba-solidworks-run-macro-on-model-load,VBA solidworks  run macro on model load,0,0,1
+/questions/70936599/nested-select-menu-in-angular,Nested select menu in angular,0,0,1
+/questions/70936598/i-have-vps-server-how-hide-my-main-ip-or-can-i-add-multiple-ips-to-that-vps,I have VPS Server how hide my main ip or can i add multiple ips to that VPS,0,0,1
+/questions/70936597/how-to-get-x-y-coordination-after-release-the-click-move-the-mouse-at-same-tim,How to get X Y coordination after release the Click + Move the mouse at same time - VueJs,0,0,1
+/questions/70936595/how-to-use-complete-cases-in-gtsummary-for-each-variable-for-doing-a-paired-t-te,How to use complete.cases in gtsummary for each variable for doing a paired t.test instead doing complete.cases for full data frame?,1,0,1
+/questions/70936594/django-form-with-dependent-foreignkey-forms-on-one-page,Django Form with dependent ForeignKey forms on one Page,0,0,1
+/questions/70936593/migrating-mvc-5-project-to-angular-10,Migrating MVC 5 Project to Angular 10,0,1,1
+/questions/70936589/cognito-user-sign-up-stuck-in-unconfirmed-state-resend-confirmation-link-not-wo,Cognito user sign-up stuck in UNCONFIRMED state (resend confirmation link not working),0,0,1
+/questions/70936585/how-to-forward-a-tsdoc-description-within-an-object-property,How to forward a TSDoc description within an object property,0,1,1
+/questions/70936584/run-angularjs-application-fails,run Angularjs application fails,0,0,1
+/questions/70936582/google-tag-manager-not-showing-any-existing-tags,Google tag manager not showing any existing tags,0,0,1
+/questions/70936581/how-to-prevent-deleting-image-in-contenteditable,How to prevent deleting image in ContentEditable,0,0,1
+/questions/70936580/how-can-i-restrict-someone-from-entering-numbers-or-special-characters-in-my-nam,How can I restrict someone from entering numbers or special characters in my NAME edittext,1,0,1
+/questions/70936577/gcs-integration-using-play-wsclient-not-working,GCS integration using play wsclient not working,0,0,1
+/questions/70936575/assertionerror-expected8089-but-was-1,AssertionError: expected:<8089> but was:<-1>,0,0,1
+/questions/70936573/how-to-prevent-scaling-of-background-image-using-css,How to prevent scaling of background image using CSS?,1,0,1
+/questions/70936571/auth0-sdk-not-passing-code-verifier,Auth0 SDK Not Passing code_verifier,0,0,1
+/questions/70936568/how-i-round-off-two-decimal-point-in-java,How i round off two decimal point in java?,0,-1,1
+/questions/70936567/need-to-sync-database-to-salesforce-where-database-refreshing-everyday,Need to sync database to salesforce where database refreshing everyday,0,0,1
 /questions/70936260/missing-template-for-this-request-but-it-exists,Missing template for this request but it exists?,0,0,1
 /questions/70936256/reactnative-exception-in-native-guidedstepsupportfragment-call-android-leanbac,ReactNative: Exception in native GuidedStepSupportFragment call (Android LeanBack),0,0,1
 /questions/70936254/how-to-bulk-insert-5-5m-records-in-mongodb-through-django-model-with-in-small-ti,How to Bulk Insert 5.5M records in mongodb through django model with in small time?,0,0,1
 /questions/70936253/clustering-in-python-reduce-cluster-size,Clustering in python - reduce cluster size,0,0,1
-/questions/70936252/how-to-restrict-creating-android-folder-in-usb,How to restrict creating "Android Folder" in USB?,0,0,1
-/questions/70936442/if-string-is-immutable-in-java-then-why-does-replaceall-method-can-change-the,If String is immutable in java  then why does replaceAll() method can change the String? [duplicate],0,0,1
-/questions/70936439/bulk-load-write-data-from-sql-server-to-azure-table-storage-using-ssis,Bulk load/write data from SQL server to Azure Table Storage using SSIS,0,0,1
-/questions/70936438/use-websocket-in-nest-js-and-angular,Use websocket in Nest js and Angular,0,0,1
-/questions/70936436/post-api-419-unknown-status-error-solution-in-react-js,POST (api) 419 (unknown status) error solution in REACT JS,0,0,1
-/questions/70936433/microsoft-sqlserver-type-version-11-0-0-0-is-existing-application-contains-but-n,microsoft.sqlserver.type Version=11.0.0.0 is existing application contains but need to upgrade it version=14.0.0.0 how to possible it,0,0,1
-/questions/70936430/how-to-get-the-file-manager-item-id-of-an-assignment-in-moodle-using-the-web-ser,How to get the file manager item id of an assignment in Moodle using the Web service API,0,0,1
-/questions/70936426/how-to-prevent-losing-line-items-inside-cart-when-using-apollo-nextjs-with-ssr,How To Prevent Losing Line Items Inside Cart When Using Apollo  Nextjs With SSR?,0,0,1
-/questions/70936425/swapping-two-values-in-python-dataframe-after-checking-a-condition,Swapping two values in python DataFrame after checking a condition [duplicate],0,0,1
-/questions/70936423/asp-net-core-background-service-stops-even-if-idle-timeout-is-0-and-start-mode,ASP .NET Core background service stops even if idle timeout is 0 and start mode is AlwaysRunning in iis,1,0,1
-/questions/70936422/native-script-webview-interface-plugin-unable-to-find-local-resource,native script: WebView Interface plugin unable to find local resource,0,0,1
-/questions/70936421/nomethoderror-in-tutorscontrollercreate-undefined-method-supert-for-tutor,NoMethodError in TutorsController#create undefined method `supert=' for #<Tutor:0x00007fa5593f99f8> Did you mean? super= super super super?,0,0,1
-/questions/70936420/how-do-you-guys-start-your-personal-projects,How do you guys start your personal projects?,0,-1,1
-/questions/70936418/can-xcode-check-memory-leaks-like-valgrind-does-in-c-code-macos-monterey-12,Can Xcode check memory leaks like Valgrind Does in C++ code? (MacOS Monterey 12.1 M1),0,0,1
-/questions/70936416/using-continue-statement-in-javascript,Using continue Statement in JavaScript,0,0,1
-/questions/70936415/how-i-can-add-export-release-feature-in-redmine,How I can add 'export release' feature in Redmine,0,0,1
-/questions/70936413/why-the-prettier-code-formatter-stopped-formatting-the-code-in-vs-code,why the prettier code formatter stopped formatting the code in VS Code?,1,0,1
-/questions/70936411/filtering-using-having-by-clause-result-in-unknown-column-in-having-clause,filtering using having by clause result in unknown column in having clause,1,0,1
-/questions/70936410/kotlin-sam-interface-and-method-reference,Kotlin SAM interface and method reference,0,0,1
-/questions/70936409/kotlin-gradle-project,Kotlin Gradle Project,0,0,1
-/questions/70936408/how-to-calculate-percentage-of-each-class-variable-after-grouping-it-by-another,How to calculate percentage of each class variable after grouping it by another variable?,1,0,1
-/questions/70936407/unable-to-change-the-publicpath-in-vue-3-with-vite-js,Unable to change the publicPath in Vue 3 with Vite.js,1,0,1
-/questions/70936405/the-app-crashes-when-i-pick-image-from-gallery-the-second-time-have-tried-to-ca,The app crashes when i pick image from gallery the second time. Have tried to call System.gc() to clear the memory  but didn't worked,0,0,1
-/questions/70936403/creating-a-dynamic-chart-in-angular-using-the-data-in-json-file,Creating a dynamic chart in angular using the data in json file,0,0,1
-/questions/70936402/typescript-why-spread-is-not-safe,Typescript: why spread is not safe?,1,0,1
-/questions/70936401/store-all-response-of-request-module-in-database,Store all response of request module in database,0,0,1
-/questions/70936400/sql-server-raiseerror-throws-a-syntax-error,SQL Server: RaiseError throws a syntax error,0,0,1
-/questions/70936399/how-to-set-image-and-button-in-qr-code-scanner-screen,How to set Image and Button In qr Code scanner Screen?,0,0,1
-/questions/70936396/get-all-students-who-has-got-more-marks-than-the-average-marks-of-that-class,get all students who has got more marks than the average marks of that class,0,0,1
-/questions/70936394/wordpress-read-qr-code-data-and-save-them-to-database,Wordpress Read QR code data and save them to database,0,0,1
-/questions/70936392/how-to-debug-or-possibly-simply-compile-asp-net-from-only-command-line,How to debug or possibly simply Compile Asp.NET from only command line,0,0,1
-/questions/70936388/cat-with-multiquery-is-not-working-when-creating-and-inserting-data-into-tempo,Cat with --multiquery is not working when creating and inserting data into Temporary table clickhouse,0,0,1
-/questions/70936387/how-to-export-unnamed-portal-1-to-csv-file-in-postgresql-function-output,How to export "<unnamed portal 1> to csv file in postgresql - function output,0,0,1
-/questions/70936386/position-relative-or-absolute-and-text-align-left,Position relative or absolute and text align left,0,0,1
-/questions/70936385/in-reference-to-an-object-color-height-weight-and-name-are-all-examples,In reference to an object  color, height, weight and name are all examples [closed],0,-3,1
-/questions/70936384/when-ever-i-open-terminal-in-visual-studio-code-the-terminal-is-blank-and-cant-t,when ever i open terminal in visual studio code the terminal is blank and cant type a single word in it,1,0,1
-/questions/70936382/odoo13-ce-module-sale-order-what-inherit-id-do-i-need-to-inherit-quotation-tr,Odoo13-CE: Module: sale.order: What inherit_id do I need to inherit quotation tree/list view?,0,0,1
-/questions/70936378/circleci-build-fails-when-setting-up-add-ssh-keys-config,CircleCI build fails when setting up add_ssh_keys config,1,0,1
-/questions/70936377/how-to-expose-objective-c-header-file-to-swift-in-swift-static-library,how to expose Objective C header file to swift in swift static library?,0,0,1
-/questions/70936371/why-ckeditor-content-stored-in-database-do-not-display-as-html-in-php,why ckeditor content stored in database do not display as html in php,2,1,1
-/questions/70936370/how-to-add-a-additional-dense-layer-im-getting-value-error,how to add a additional dense layer i'm getting value error,0,0,1
-/questions/70936366/token-management-in-karate-parallel-execution,Token management in Karate parallel execution,0,0,1
-/questions/70936365/why-isnt-the-sequencer-repeating-the-autopage,Why isn't the sequencer repeating the AutoPage?,0,0,1
-/questions/70936364/error-in-publish-blazor-wams-version-net5-after-install-visual-studio-2022,error in publish blazor-wams version.net5 after install visual studio 2022,0,0,1
-/questions/70936363/add-product-to-cart-with-price-override,Add product to cart with price override?,0,0,1
-/questions/70936362/swift-javascriptcore-call-function-return-undefined-but-python-execjs-return-cor,Swift JavaScriptCore call function return undefined but Python execjs return correct result,0,0,1
-/questions/70936357/how-to-check-two-excels-in-a-validation,How to check two excels in a validation?,1,0,1
-/questions/70936356/escaped-characters-are-not-working-in-kotlin,Escaped characters are not working in Kotlin,0,0,1
-/questions/70936353/reduce-operation-in-spark-with-constant-values-gives-a-constant-result-irrespect,Reduce operation in Spark with constant values gives a constant result irrespective of input,0,0,1
-/questions/70936352/cant-resolve-dmg-license-in-build,Can't resolve 'dmg-license' in build,0,0,1
-/questions/70936350/postgres-query-to-hql-select-t-from-tablename-t-where-t-isactive-true-order-by,Postgres query to HQL: select t from TableName t where t.isActive=true order by t.extension->'desc',0,0,1
+/questions/70936252/how-to-restrict-creating-android-folder-in-usb,How to restrict creating "Android Folder" in USB?,0,1,1
 /questions/70936249/if-ebpf-does-not-allow-global-variable-then-how-to-pick-incremental-keys,if ebpf does not allow global variable then how to pick incremental keys,0,0,1
 /questions/70936248/flutter-circle-avatar-with-progress-bar,Flutter - Circle Avatar with Progress Bar,1,0,1
 /questions/70936247/handling-rounding-issue-with-bignumber,Handling rounding issue with BigNumber,0,0,1
@@ -215,10 +220,10 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70936226/how-to-keep-json-server-alive-permanently,How to keep json-server alive permanently?,0,0,1
 /questions/70936224/ffmpeg-add-subtitles-to-live-stream-dynamically,FFmpeg: add subtitles to live stream dynamically,0,0,1
 /questions/70936223/how-to-close-editable-ag-grid-dropdown-on-select,How to close editable ag-grid dropdown on select?,0,0,1
-/questions/70936220/java-oops-with-access-modifier,Java OOPS with Access modifier [closed],0,-7,1
+/questions/70936220/java-oops-with-access-modifier,Java OOPS with Access modifier [closed],0,-6,1
 /questions/70936219/how-to-display-json-vertically-as-columns-not-horizontally-as-rows,how to display json vertically (as columns) not horizontally (as rows),0,0,1
 /questions/70936218/pyqt5-qtablewidget-gui-update-is-too-slow-when-there-are-many-cells,PyQt5 QTableWidget GUI update is too slow when there are many cells,0,0,1
-/questions/70936213/bad-answer-using-two-set-single-number-leetcode-136,bad answer using two set. Single number leetcode-136 [closed],0,-2,1
+/questions/70936213/bad-answer-using-two-set-single-number-leetcode-136,bad answer using two set. Single number leetcode-136 [closed],0,-3,1
 /questions/70936212/not-able-to-understand-the-use-of-jwt-clearly,Not able to understand the use of JWT clearly [closed],0,-2,1
 /questions/70936211/getting-redirected-from-keycloak-login-page-and-strange-behaviour-is-noticed,Getting redirected from keycloak login page and strange behaviour is noticed,0,0,1
 /questions/70936210/call-a-function-of-purchasemodel-in-to-another-model-name-salesmodel-without-loa,Call a function of PurchaseModel in to another model name SalesModel without loading PurchaseModel into SalesModel,0,0,1
@@ -249,11 +254,61 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70936163/are-there-any-way-to-detect-is-it-email-or-phone-number,Are there any way to detect is it email or phone number? [duplicate],0,-3,1
 /questions/70936160/a-graphics-object-works-well-by-itself-but-doesnt-work-with-phaser-display-a,A `graphics` object works well by itself but doesn't work with `Phaser.Display.Align.In.Center`  what am I missing?,1,1,1
 /questions/70936159/tableau-lod-i-think,Tableau LOD (i think),0,0,1
+/questions/70936158/remove-first-two-lines-last-two-lines-and-space-from-file-and-add-quotes-on-eac,Remove first two lines  last two lines and space from file and add quotes on each line and replace newline with commas in shell script,1,0,1
+/questions/70936154/grafana-version-upgrade,Grafana Version Upgrade,0,0,1
+/questions/70936153/aws-java-api-to-access-ec2-policy-inside-the-spring-boot-application-running-in,Aws Java api to access Ec2 policy inside the spring boot application running in aws,0,0,1
+/questions/70936151/how-to-get-my-username-before-dollar-in-linux-terminal,How to get my username before dollar $ in linux terminal?,0,0,1
+/questions/70936148/unscheduling-upload-firebase-analytics-ionic,Unscheduling upload firebase analytics ionic,0,0,1
+/questions/70936146/angular-material-passing-data-from-one-component-to-another,Angular material : passing data from one component to another,0,0,1
+/questions/70936145/diagonal-difference-in-python,Diagonal difference in Python,2,1,1
+/questions/70936144/how-to-set-rgb-value-in-python,How to set RGB value in Python?,2,0,1
+/questions/70936142/filereader-onload-is-failing-second-even-with-different-file-name,filereader onload is failing second even with different file name,0,1,1
+/questions/70936141/azure-function-error-binaryformatter-serialization-and-deserialization-are-dis,Azure function error : BinaryFormatter serialization and deserialization are disabled within this application,0,0,1
+/questions/70936140/i-am-trying-to-make-a-pointcut-but-its-giving-an-exception,I am trying to make a pointcut. but its giving an Exception,1,0,1
+/questions/70936137/how-to-send-push-notification-to-android-device-with-user-details-by-calling-sto,How to send Push Notification to android device with user details by calling stored proc using asp.net core web api +sql server,0,0,1
+/questions/70936134/flutter-webview-razorpay-netbanking-issue,Flutter webview Razorpay netbanking issue,0,1,1
+/questions/70936133/insert-extra-columns-to-match-a-fixed-predefined-header-row,Insert extra columns to match a fixed predefined header row,0,0,1
+/questions/70936129/how-to-change-placeholder-text-for-search-box-in-react-admin,How to change placeholder text for search box in react-admin?,0,0,1
+/questions/70936126/get-count-of-a-value-that-repeats-only-in-different-idss,Get count of a value that repeats ONLY in different IDSs,1,0,1
+/questions/70936127/nuxt-js-website-does-not-load-on-only-iphone-working-fine-everywhere-else,Nuxt JS website does not load on only iPhone  working fine everywhere else,0,0,1
+/questions/70936122/how-to-have-custom-colors-in-ng2-charts-and-chart-js-according-to-data,How to have custom colors in ng2-charts and chart.js according to data?,0,1,1
+/questions/70936120/android-studio-disconnects-from-physical-device,Android Studio Disconnects From Physical Device,0,3,1
+/questions/70936118/how-to-make-python-delete-lines-containing-strings-over-a-maximum-character-limi,How to make Python delete lines containing strings over a maximum character limit?,4,1,1
+/questions/70936117/combining-multiple-read-write-binders,Combining multiple read/write Binders,1,1,1
+/questions/70936112/install-taurus-task-fails-due-to-error-unable-to-locate-executable-file-bzt,Install Taurus Task fails due to error: Unable to locate executable file: 'bzt',0,0,1
+/questions/70936111/redraw-a-single-shape-or-changed-shape-only-instead-of-all-shapes,Redraw a Single Shape or Changed Shape Only Instead of All Shapes,0,1,1
+/questions/70936110/how-to-close-file-explorer-window-using-lotus-script,How to close file explorer window using lotus script,0,1,1
+/questions/70936107/convert-string-in-a-existing-dictionary-to-list,Convert string in a existing dictionary to list,1,0,1
+/questions/70936103/state-variable-in-ontapgesture-not-getting-updated,@State variable in onTapGesture not getting updated,0,1,1
+/questions/70936102/why-does-let-in-a-f-constructor-create-a-private-member-instead-of-a-local-va,Why does "let" in a F# constructor create a private member instead of a local variable,0,1,1
+/questions/70936099/flutter-when-i-fetch-data-from-api-showing-statuscode-403failed-to-load-post,Flutter. When I fetch data from API showing StatusCode 403(Failed to load post)?,1,0,1
+/questions/70936097/cannot-move-out-of-x-which-is-behind-a-shared-reference-when-using-box,Cannot move out of `*X` which is behind a shared reference when using Box,0,2,1
+/questions/70936095/typescript-variable-x-is-used-before-being-assigned,typescript variable 'x' is used before being assigned,0,-2,1
+/questions/70936091/not-able-to-replace-n-using-regex-replace-in-pyspark,not able to replace \n using regex_replace in pyspark,2,1,1
+/questions/70936088/set-and-get-string-using-shared-preferences,Set and Get String using Shared Preferences,0,0,1
+/questions/70936086/what-should-be-the-type-of-state-in-pinia-store-using-nuxt,What should be the type of state in pinia store using nuxt,0,0,1
+/questions/70936084/react-table-setfilter-with-custom-filter-function,react-table setFilter with custom filter function?,0,0,1
+/questions/70936082/scopedreader-has-changed-to-widgetref-on-flutter-riverpod-but-state-is-where,ScopedReader has changed to WidgetRef on flutter_riverpod   but state is where?,0,0,1
+/questions/70936080/remove-the-ending-of-a-column-in-pandas-dataframe-starting-from-a-specific-subst,Remove the ending of a column in pandas dataframe starting from a specific substring,2,0,1
+/questions/70936079/performance-of-saas-application-angular-net-azure-aks,Performance of SaaS application - Angular + .NET (Azure AKS),0,0,1
+/questions/70936078/how-to-pass-a-variable-inside-the-function,How to pass a variable inside the function,0,0,1
+/questions/70936076/loops-in-pl-sql-whats-missing-in-this-loop-is-this-loop-correctly-written,Loops in PL/SQL. What's missing in this loop? Is this loop correctly written?,1,0,1
+/questions/70936075/display-data-in-text-boxes-by-clicking-into-datagridview-to-update-or-save-the-d,Display data in text boxes by clicking into DataGridview to update or save the data C# with MySql db,0,0,1
+/questions/70936074/how-to-set-filename-while-writing-in-pyspark,How to set filename while writing in Pyspark?,0,0,1
+/questions/70936073/how-to-make-my-program-display-always-on-top,How to make my Program Display Always on top,1,0,1
+/questions/70936070/how-do-i-get-the-sum-of-fields-in-mongodb,How do i get the sum of fields in mongodb?,1,0,1
+/questions/70936067/swift-jwt-decoding-issue,Swift-JWT decoding issue,0,0,1
+/questions/70936065/how-to-prevent-enddrawer-closing-automatically-by-outside-click-in-flutter-like,How to prevent EndDrawer closing automatically by outside click in flutter like barrier dismissible in Dialog,0,0,1
+/questions/70936064/is-there-is-a-way-i-can-create-a-unit-test-for-authorizationbehavior-api-code-in,Is there is a way I can create a unit test for AuthorizationBehavior api code in asp.net DDD clean architecture?,0,0,1
+/questions/70936059/setup-edx-on-your-local-system-ubuntu,Setup edx on your local system. (Ubuntu),0,0,1
+/questions/70936058/cronjob-issue-in-nest-js,Cronjob issue in nest js,0,0,1
+/questions/70936055/how-do-i-use-the-function-format,How do i use the function format()? [closed],4,-5,1
+/questions/70936052/why-xdg-open-dont-open-slack,why xdg-open don't open slack?,0,0,1
 /questions/70936049/html-css-styling,HTML CSS STYLING [closed],0,-2,1
 /questions/70936043/unity-select-webcam-by-unique-id,Unity select webcam by unique id,0,0,1
 /questions/70936039/c-exception-thrown-read-access-violation-uncle-was-nullptr-red-black-trees,C++ Exception thrown: read access violation. Uncle was nullptr. RED BLACK TREES [closed],1,-2,1
 /questions/70936035/finding-the-associated-data-in-rails-grape-api,finding the associated data in rails - grape api,0,0,1
-/questions/70936034/need-help-in-forming-a-sql-query,Need help in forming a SQL query,0,1,1
+/questions/70936034/need-help-in-forming-a-sql-query,Need help in forming a SQL query,1,1,1
 /questions/70936033/tkinter-validation-of-entry-widgets-in-python,Tkinter validation of Entry widgets in Python,0,1,1
 /questions/70936031/how-to-set-min-value-a-step-down-of-min-value-received-from-database-in-y-axis-i,How to set min Value a step down of min value received from database in Y Axis in ChartJS,1,0,1
 /questions/70936030/setup-webview-for-flyme-6-2-android-5-1,Setup WebView for Flyme 6.2 (Android 5.1),0,0,1
@@ -264,13 +319,13 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70936012/jquery-ajax-not-passing-data-to-mvc-controller,Jquery Ajax Not Passing Data to MVC Controller,0,0,1
 /questions/70936008/confused-as-to-what-this-firebase-rule-means-data-not-displaying-from-firestore,Confused as to what this firebase rule means? Data not displaying from firestore database,1,0,1
 /questions/70936006/prisma-2-error-unknown-arg-tags-in-data-tags-for-type-postuncheckedcreateinpu,Prisma 2 Error. Unknown arg `tags` in data.tags for type PostUncheckedCreateInput,0,0,1
-/questions/70936005/how-do-i-find-the-combination-of-two-integers-in-an-array-that-add-to-a-perfect,How do I find the combination of two integers in an array that add to a perfect square? [closed],0,-7,1
+/questions/70936005/how-do-i-find-the-combination-of-two-integers-in-an-array-that-add-to-a-perfect,How do I find the combination of two integers in an array that add to a perfect square? [closed],0,-8,1
 /questions/70936004/google-sheets-how-to-generate-a-list-of-values-and-dates-and-repeat-x-times,Google sheets How to generate a list of values and dates and repeat x times,0,0,1
 /questions/70936003/how-do-you-display-a-character-with-ncurses-in-rust,How do you display a character with ncurses in Rust?,1,0,1
 /questions/70935996/ajv-passcontext-true-this-is-undefined,Ajv passContext: true "this" is undefined,0,0,1
 /questions/70935995/xamarin-forms-navigation-not-working-as-expected-in-debug-mode,Xamarin Forms navigation not working as expected in debug mode,0,0,1
 /questions/70935992/r-find-the-sum-for-the-lagging-record-and-add-another-column-to-current-value,R - Find the sum for the lagging record and add another column to current value iteratively,3,1,1
-/questions/70935983/i-need-to-write-a-python-script-which-will-make-a-passwordless-connection-from-o,I need to write a python script which will make a passwordless connection from one server (server1) to another remote server(server2),1,0,1
+/questions/70935983/i-need-to-write-a-python-script-which-will-make-a-passwordless-connection-from-o,I need to write a python script which will make a passwordless connection from one server (server1) to another remote server(server2) [duplicate],1,-1,1
 /questions/70935982/using-matic-with-web3-and-metamask-error-returned-error-unknown-account,Using MATIC with Web3 and MetaMask: "Error: Returned error: unknown account",0,0,1
 /questions/70935981/how-to-post-data-coming-from-one-microservice-combining-it-with-data-coming-from,How to POST data coming from one microservice combining it with data coming from frontend(angularjs) into JPA using Spring RestTemplate,0,-1,1
 /questions/70935980/try-to-parse-json-from-restcountries-v-3-1-with-swift,Try to parse JSON from restcountries v.3.1 with SWIFT,1,0,1
@@ -292,7 +347,7 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70935945/getting-protoc-executable-file-not-found-in-path-when-running-go-generate,Getting "protoc": executable file not found in $PATH when running "go generate" command,1,-1,1
 /questions/70935943/trouble-converting-string-to-int,Trouble Converting string [] to int [],2,-1,1
 /questions/70935942/system-verilog-for-loop-index-variable-issue,system verilog: for loop index variable issue,0,0,1
-/questions/70935941/android-api-level-31-error-execution-failed-for-task-appkaptdebugkotlin,Android API level 31 error - Execution failed for task ':app:kaptDebugKotlin',0,0,1
+/questions/70935941/android-api-level-31-error-execution-failed-for-task-appkaptdebugkotlin,Android API level 31 error - Execution failed for task ':app:kaptDebugKotlin',0,1,1
 /questions/70935938/data-is-coming-from-parent-component-also-we-can-see-in-console-but-it-is-not-r,Data is coming from parent component also we can see in console  but it is not render same data in child. also it is not displaying anything,1,0,1
 /questions/70935934/react-js-prevent-scrolling-to-top-after-re-rendering,React.js Prevent Scrolling to top after re-rendering,0,0,1
 /questions/70935933/google-colab-popup-erase-on-class-weite,google colab popup erase on class weite,0,0,1
@@ -322,7 +377,7 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70935889/vpc-created-even-after-getting-error-in-terraform-file,VPC created even after getting error in terraform file,0,0,1
 /questions/70935888/winform-like-thing-on-linux-available,WinForm Like Thing On Linux - Available?,0,0,1
 /questions/70935887/get-access-to-req-user-outside-of-google-auth-routes,Get access to req.user outside of google auth routes,0,0,1
-/questions/70935886/is-jetpack-compose-better-than-xml,Is Jetpack Compose better than XML [closed],0,1,1
+/questions/70935886/is-jetpack-compose-better-than-xml,Is Jetpack Compose better than XML [closed],0,0,1
 /questions/70935882/how-to-set-columns-comment-with-create-table-and-select-statement-in-sql,How to set column's +comment+ with CREATE TABLE and SELECT statement in sql [duplicate],0,0,1
 /questions/70935880/how-would-i-get-a-running-total-by-year,How would I get a running total by Year,0,0,1
 /questions/70935876/react-hook-form-formprovider-performance-with-controlled-components-or-how-to,react-hook-form FormProvider performance with controlled components (or  how to memoize controlled components),0,0,1
@@ -349,3 +404,98 @@ Question Link, Question,Answer Count,Upvotes,Refrenced Count
 /questions/70935839/hackerrank-closest-number-optimization-problem,HackerRank closest number optimization problem [closed],0,-3,1
 /questions/70935838/building-password-strength-indicator-using-js-not-working,Building Password strength indicator using JS - Not Working,0,-1,1
 /questions/70935836/is-terraform-just-a-fancy-azure-arm-wrapper,Is Terraform just a fancy Azure ARM wrapper,0,1,1
+/questions/70935832/app-is-crashing-in-ios-the-client-has-already-been-terminated,App is crashing in IOS - The client has already been terminated,0,0,1
+/questions/70935825/how-to-play-a-song-from-a-specified-playlist-spotify-api,How to play a song from a specified playlist (Spotify API),1,1,1
+/questions/70935822/google-sheets-how-to-get-multiple-row-data-by-row-index,Google Sheets - How to get multiple row data by row index,0,1,1
+/questions/70935821/fread-reads-empty-csv-wrongly-when-there-is-a-numeric-colname,fread reads empty csv wrongly when there is a numeric colname,1,0,1
+/questions/70935818/usage-of-extended-security-plugin-in-jenkins,Usage of Extended Security Plugin in Jenkins,0,0,1
+/questions/70935816/page-source-not-showing-data-fetched-from-api-in-next-js,Page source not showing data fetched from api in next.js,0,0,1
+/questions/70935815/count-occurrences-of-a-single-value-in-pandas-series,Count occurrences of a single value in pandas Series [duplicate],0,2,1
+/questions/70935814/i-have-a-question-about-placing-more-than-one-image-in-turtle-python,I have a question about placing more than one image in turtle python,0,-1,1
+/questions/70935811/i-face-this-problem-during-run-query-with-union-all-3653-all-select-lists-do-n,I face this problem during run query with union all.. 3653 All select-lists do not contain the same number of expressions,1,-2,1
+/questions/70935810/how-to-authenticate-firebase-using-email-password-on-desktop-for-individual-user,How to authenticate firebase using email/password on desktop for individual users (javafx),0,0,1
+/questions/70935809/cell-reference-in-cube-member-funtion,Cell reference in cube member funtion,0,0,1
+/questions/70935806/how-to-use-cloud-watch-client-to-collect-stated-metrics-to-aws-cloud-watch,How to use cloud watch client to collect stated metrics to aws cloud watch?,0,0,1
+/questions/70935804/locating-parasoft-command-line-arguments-issued-while-performing-static-code-ana,Locating Parasoft command line arguments issued while performing Static Code analysis on Visual Studio,0,0,1
+/questions/70935801/script-is-getting-opened-in-ms-script-host,Script is getting opened in ms script host,0,0,1
+/questions/70935800/how-to-navigate-from-fragment-to-activity-in-android-navigation-component,How to navigate from fragment to Activity in Android navigation component?,1,0,1
+/questions/70935799/how-to-get-external-group-or-member-from-google-groups-api,how to get External group or member from google groups API,0,0,1
+/questions/70935798/outlook-plug-in-for-adding-favorite-links,Outlook Plug-In for adding Favorite links,1,0,1
+/questions/70935797/getting-error-discordapierror-cannot-send-an-empty-message,Getting error DiscordAPIError: Cannot send an empty message,0,0,1
+/questions/70935796/how-to-apply-angular-animation-to-mat-menu-panel,How to apply Angular animation to mat-menu panel,0,0,1
+/questions/70935795/least-common-denominator-typeerror-float-object-cannot-be-interpreted-as-an,Least Common Denominator  TypeError: 'float' object cannot be interpreted as an integer,,2,0,1
+/questions/70935792/php-how-to-multiple-random-numbers,PHP -- How to multiple random numbers?,3,-1,1
+/questions/70935791/weird-get-http-localhost8080-assets-models-7-glb-404-error-in-local-serve,Weird "GET http://localhost:8080/assets/models/7...glb 404 error" in local server for loading gltf files in babylon JS,0,0,1
+/questions/70935790/how-to-write-test-cases-for-the-function-that-will-be-called-in-one-screen-when,How to write test cases for the function that will be called in one screen when coming from other screen react native,0,0,1
+/questions/70935788/which-one-is-best-css-framework-for-data-driven-website-like-yahoo-finance,which one is best css framework for data driven website (like yahoo finance),0,-2,1
+/questions/70935785/getting-the-error-while-starting-react-native-project,Getting the error while starting react-native project,1,1,1
+/questions/70935783/using-cut2-to-combine-collapse-categories-from-a-dataset,Using Cut2 to combine/collapse categories from a dataset,0,0,1
+/questions/70935780/pod-has-unbound-immediate-persistentvolumeclaims-issue-with-dynamic-volume-p,"pod has unbound immediate PersistentVolumeClaims" : Issue with Dynamic Volume Provisioning,0,0,1
+/questions/70935776/new-to-coding-help-in-solving-the-issues-im-facing-in-django-project,New to Coding help in solving the issues im facing in django project [closed],0,-2,1
+/questions/70935775/bootstrap-select-is-flashbacked-i-used-django-and-bootstrap,bootstrap-select is flashbacked i used django and bootstrap,0,0,1
+/questions/70935769/cannot-use-bigquery-udf-bqutil-in-processing-location-us-west-2,Cannot use bigquery udf (bqutil) in processing location: us-west-2,0,0,1
+/questions/70935768/call-api-from-accountclaimsprincipalfactory-in-blazor-wasm,Call API from AccountClaimsPrincipalFactory in Blazor WASM,0,1,1
+/questions/70935766/how-to-maintain-bot-state-when-using-multiple-gunicron-workers,How to maintain bot state when using multiple gunicron workers?,0,2,1
+/questions/70935765/how-to-select-dropdown-menu-items-on-webpage-with-puppeteer,How to select dropdown menu items on webpage with Puppeteer,1,1,1
+/questions/70935764/trying-to-install-and-run-apache-derby-on-mac-monterey-os-system,Trying to install and run apache derby on Mac Monterey OS system,0,0,1
+/questions/70935761/formatted-string-hell-python,Formatted string hell - Python,3,0,1
+/questions/70935760/cant-style-an-image-using-css,Cant style an image using CSS [closed],0,-3,1
+/questions/70935758/does-the-size-of-the-element-matter-to-the-speed-of-stdsort,Does the size of the element matter to the speed of std::sort?,1,0,1
+/questions/70935757/cannot-use-images-in-aws-amplify-when-using-basic-react-app,Cannot use images in AWS Amplify when using Basic React App,0,1,1
+/questions/70935756/app-installation-issue-oauth-error-missing-shopify-permission,App installation issue: Oauth error missing_shopify_permission,0,0,1
+/questions/70935752/is-it-safe-to-upload-an-ad-hoc-ipa-in-some-web-sites-to-get-a-link-for-installi,Is it safe to upload an ad hoc .ipa in some web sites to get a link for installing the app on iPhones?,0,0,1
+/questions/70935751/how-to-style-a-react-link-component,How to style a react Link component?,3,0,1
+/questions/70935750/how-to-install-googles-scann-library-on-m1-mac,How to install Google's ScaNN library on M1 mac?,0,0,1
+/questions/70935747/i-face-a-problem-in-c-input-is-wrong-its-say-segmentation-fault,I face a problem in C. Input is wrong-- its say Segmentation fault,2,0,1
+/questions/70935746/flutter-i-have-2-apps-that-i-made-using-flutter-i-want-to-use-one-apps-login,Flutter: I have 2 apps that I made using flutter. I want to use one app's login details (access token) saved on sharedPfrefs for the other app,0,-1,1
+/questions/70935740/how-to-stop-for-loop-from-printing-the-same-input,How to stop for loop from printing the same input?,3,1,1
+/questions/70935739/mysql-error-1146-and-1050-table-does-not-exists-and-table-already-exists,MySQL Error 1146 and 1050 - Table does not exists and Table already exists,1,0,1
+/questions/70935735/can-i-import-scss-file-as-variable-with-js-like-import-styles-from-index-scs,can i import scss file as variable with js  like import styles from './index.scss'?,0,0,1
+/questions/70935732/how-to-remove-the-fill-colorblack-of-smiley-icon-and-change-it-to-white,How to remove the fill color(black) of smiley icon and change it to white,3,1,1
+/questions/70935729/how-to-extract-text-from-a-captured-image-containing-tabular-data-in-swift-ios,How to extract text from a captured image containing tabular data in Swift + iOS?,0,0,1
+/questions/70935727/kivy-drag-n-drop-area-is-too-big,Kivy drag n drop area is too big,0,1,1
+/questions/70935724/how-to-get-all-data-of-price-qty-from-html-in-js-and-multiple-it-accordingly-an,how to get all data of price  qty from html in js and multiple it accordingly and add it into html in Django. anyone help me,1,0,1
+/questions/70935723/image-compresser-webp-in-angular,Image compresser webp in angular,1,0,1
+/questions/70935719/elasticsearch-connector-task-stuck-in-failed-and-unknown-status,Elasticsearch connector task stuck in failed and unknown status,0,0,1
+/questions/70935718/how-to-convert-n-d-numpy-arrays-element-wise-to-list,How to convert N-D numpy arrays element-wise to list,4,0,1
+/questions/70935717/allegro5-change-pixel-color-of-text-based-on-background,ALLEGRO5 change pixel color of text based on background,0,0,1
+/questions/70935716/node-js-access-control-allow-origin-missing,node.js Access-Control-Allow-Origin’ missing,0,-1,1
+/questions/70935715/media-queries-breakpoints-clarification,Media Queries breakpoints clarification,1,0,1
+/questions/70935714/commercetools-graphql-query,CommerceTools GraphQl query,0,1,1
+/questions/70935713/how-do-i-use-stream-builder-to-also-replace-the-pushed-widgets-from-navigator,How do I use Stream Builder to also replace the pushed widgets from Navigator?,0,1,1
+/questions/70935712/why-does-c-char-prints-an-ascii-character-even-for-a-very-large-number-value,Why does C++ char prints an ascii character even for a very large number value? [duplicate],0,-1,1
+/questions/70935708/sliding-window-approach-on-videos-for-classification,Sliding Window Approach on Videos for Classification,0,0,1
+/questions/70935706/display-information-in-html-from-dataset,Display information in html from dataset?,0,0,1
+/questions/70935705/how-do-you-scroll-down-in-gitbash,How do you scroll down in Gitbash?,1,1,1
+/questions/70935704/i-cannot-access-elements-included-using-csi-min-js-in-javascript,I cannot access elements included using *csi.min.js* in JavaScript,0,0,1
+/questions/70935703/make-run-a-target-based-on-a-directory-status,Make: Run a target based on a directory status,0,0,1
+/questions/70935701/gazebo-gui-not-showing-up-when-running-wsl2-graphics-on-windows-11,Gazebo GUI Not Showing Up when running WSL2 Graphics on Windows 11,1,0,1
+/questions/70935700/wagtail-editor-deletes-content,Wagtail editor deletes content,0,0,1
+/questions/70935698/debug-exception-in-troottask-in-vxworks,Debug exception in tRootTask in VxWorks,0,0,1
+/questions/70935696/how-to-design-laraval-project-where-should-i-put-insert-update-functions,How to design Laraval project? where should I put insert update functions?,0,-2,1
+/questions/70935695/disable-adaptive-sampling-in-azure-application-insights,Disable Adaptive Sampling in Azure Application Insights,0,0,1
+/questions/70935693/making-an-array-equal-by-decreasing-elements-adjacent-to-each-other,Making an array equal by decreasing elements adjacent to each other,0,0,1
+/questions/70935690/why-is-there-sub-instruction-in-main-but-there-is-no-sub-instruction-in-the-fun,Why is there sub instruction in main  but there is no sub instruction in the function that main calls? [duplicate],0,0,1
+/questions/70935685/execute-a-command-after-completion-of-another-command-in-linux,Execute a command after completion of another command in Linux,0,-1,1
+/questions/70935683/groovy-lang-missingmethodexception-no-signature-of-method-java-lang-string-nam,groovy.lang.MissingMethodException: No signature of method: java.lang.String.name() is applicable for argument types: () values: [],0,0,1
+/questions/70935681/how-to-give-access-to-your-website-built-by-flask-to-someone-in-another-computer,How to give access to your website built by Flask to someone in another computer in the internet? [closed],0,-4,1
+/questions/70935680/how-to-run-async-function-multiple-times,How to run async function multiple times?,0,-1,1
+/questions/70935678/spring-web-app-deployment-how-do-you-hide-data-in-application-properties,Spring Web App Deployment:: how do you hide data in application.properties?,2,-1,1
+/questions/70935677/write-a-linux-script-that-takes-the-username-from-the-script-s-calling-parameter,Write a Linux script that takes the username from the script’s calling parameter,1,0,1
+/questions/70935675/calculating-and-positioning-absolute-divs-relative-to-other-elements,Calculating and positioning absolute DIV's relative to other elements,0,0,1
+/questions/70935673/invalid-pydantic-field-type-post-parameters-fastapi-python-3-8,InValid Pydantic Field Type POST parameters (FastApi) - Python 3.8,1,0,1
+/questions/70935672/did-you-forget-to-call-flowpagingdata-cachedincoroutinescope,Did you forget to call Flow<PagingData<*>>.cachedIn(coroutineScope)?,1,0,1
+/questions/70935671/windows-app-sharing-common-sql-server-database-over-network,Windows app sharing common SQL Server database over network [closed],0,-1,1
+/questions/70935669/i-am-trying-to-figure-out-why-my-python-code-to-open-new-browser-is-not-working,I am trying to figure out why my Python code to open new browser is not working [closed],0,-7,1
+/questions/70935667/gwa-not-computing-in-a-program-of-c,GWA not computing in a program of C [closed],0,-5,1
+/questions/70935666/update-ef-6-data-collection-winform,Update EF 6 Data Collection Winform,0,-1,1
+/questions/70935665/how-do-you-add-loading-class-when-user-starts-typing-in-react,How do you add loading class when user starts typing in React? [closed],0,-3,1
+/questions/70935663/need-to-get-the-value-of-employee-name-from-user-model-to-employee-model,Need to get the value of Employee_name from User model to Employee model,1,-1,1
+/questions/70935662/django-image-uploading-error-this-field-is-required-no-files-chosen,Django image uploading error  "This field is required', "no files chosen",1,0,1
+/questions/70935660/how-to-remove-multiple-items-from-a-list-in-netlogo-6-2,How to remove multiple items from a list in NetLogo 6.2?,0,0,1
+/questions/70935659/how-to-retrieve-the-duplicate-or-closet-records-in-the-sql,How to retrieve the duplicate or closet records in the SQL?,0,1,1
+/questions/70935658/is-there-an-alternative-to-express-path-for-es-6,Is there an alternative to express path for es-6,0,-2,1
+/questions/70935653/react-is-creating-iframe,react is creating iframe,0,0,1
+/questions/70935650/how-to-add-contentcontrol-google-document-using-app-script,How to add ContentControl google document using app script,0,0,1
+/questions/70935648/python-merging-data-frames,Python Merging data frames,1,0,1
+/questions/70935647/calling-deletelocalref-generates-jni-error-app-bug-accessed-stale-local-0x,Calling DeleteLocalRef() generates "JNI ERROR (app bug): accessed stale Local 0x19",0,0,1
