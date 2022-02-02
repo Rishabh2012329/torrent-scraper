@@ -1,0 +1,9 @@
+Hello I am Rishabh Baid, a 3rd year cse student at iiit una, I am Interested in the backend position, so I have completed the backend assignment. 
+I have made the script in nodejs, which uses cheerio for parsing the HTML and node-fetch to
+make the http calls. our application start's with index.js file which first imports the scraper class which contains all the logic for scraping, then
+I am handling all the exit events the could lead to exit our process, after that I have created and started a function which initializes and starts our scraper
+then I have handled the exit event on which it saves the data in csv file, now let's look over the scraper class in scraper.js, I have imported load func from cheerio
+which load's the html, fetch from node-fetch which makes http call, and fs which let's us reading and writing data to files, out init function get's the total no of pages
+to scrape and then it will start scraping page ...explain concurrency of 5. 
+  
+

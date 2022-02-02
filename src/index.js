@@ -1,6 +1,6 @@
-import {Scrapper} from './scrapper/scrapper.js'
+import {Scraper} from './scraper/scraper.js'
 
-const scrapper = new Scrapper("https://stackoverflow.com/questions")
+const scraper = new Scraper("https://stackoverflow.com/questions")
 
 // handling different exit events
 const exits = [`SIGINT`, `SIGUSR1`, `SIGUSR2`, `uncaughtException`, `SIGTERM`]
@@ -17,14 +17,15 @@ function exitRouter(options, exitCode) {
 }
 
 const start = async () => {
-    await scrapper.init()
+    await scraper.init()
 }
+
 // starting our scrapper 
 start()
 
 // runs on exit event
 function exitHandler(exitCode) {
-    scrapper.createCSV()
+    scraper.createCSV()
 }
 
 process.on('exit', exitHandler)

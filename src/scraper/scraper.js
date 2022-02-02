@@ -5,13 +5,12 @@ import fs from 'fs'
 // maintains the current scraping page
 let COUNT=1;
 
-export class Scrapper{
+export class Scraper{
     // initializing variables
     constructor(url){
         this.url=url
         this.totalPages=0
         this.questions={}
-        this.refrences={}
     }
     // initializing scrapper
     async init() {
@@ -22,7 +21,7 @@ export class Scrapper{
 
             console.log("\nScraper Started")
             /*
-                Started scraping first five pages if anyone completes it will call nextScraper
+                Started scraping first five pages if any function completes it will call nextScraper
                 which will start paring next page and so on, so it will maintain concurrency of 5.
             */ 
             for(let i=1;i<=5;i++){
@@ -89,6 +88,7 @@ export class Scrapper{
             
         })
     }
+
     getQuestionDetail($, ele) {
         try {
             const title = $(ele).find('.question-hyperlink').text();
