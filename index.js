@@ -1,4 +1,3 @@
-import {Scraper} from './scraper/scraper.js'
 import express from 'express'
 import dotenv from 'dotenv'
 
