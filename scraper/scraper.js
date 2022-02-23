@@ -129,7 +129,7 @@ export class Scraper{
                 const proxylist = $(html).find('#proxyList > tbody > tr')
                 let data = []
                 for(let i=0;i<proxylist.length;i++){
-                    if(data.length>=15)
+                    if(data.length>4)
                         break;
                     let ele = proxylist[i]
                     const a = $(ele).find('a').attr('href')
