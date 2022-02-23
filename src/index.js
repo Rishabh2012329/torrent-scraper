@@ -14,7 +14,9 @@ app.post('/getMagnet',async (req,res)=>{
     const data = await scraper.scrapeData(name)
     res.send({data})
 })
-
+app.get('/',(req,res)=>{
+    res.send({message:"ok"})
+})
 
 const port = process.env.PORT || 5000
 app.listen(port,()=>{
