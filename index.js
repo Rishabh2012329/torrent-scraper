@@ -1,6 +1,6 @@
 import express from 'express'
 import dotenv from 'dotenv'
-import {Scraper} from './scraper/scraper'
+import {Scraper} from './scraper/scraper.js'
 
 const app = express()
 
