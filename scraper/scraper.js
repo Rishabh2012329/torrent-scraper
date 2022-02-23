@@ -14,7 +14,10 @@ export class Scraper{
         this.url=url
         this.totalPages=0
         this.questions={}
-        let make = async ()=>{
+    }
+    // initializing scrapper
+    async init() {
+        try {
             this.browser=await chromium.puppeteer.launch({
                 args: chromium.args,
                 defaultViewport: chromium.defaultViewport,
@@ -22,26 +25,6 @@ export class Scraper{
                 headless: chromium.headless,
                 ignoreHTTPSErrors: true,
               });
-        }
-        make()
-       
-    }
-    // initializing scrapper
-    async init() {
-        try {
-            console.log("Initializing Scraper")
-            // getting total pages on stackoverflow questions
-            this.totalPages = await this.getTotalPages();
-
-            console.log("\nScraper Started")
-            /*
-                Started scraping first five pages if any function completes it will call nextScraper
-                which will start paring next page and so on, so it will maintain concurrency of 5.
-            */ 
-           
-                // starting scrape function
-            this.scrapeQuestionsList(this.url)
-                    
             
         } catch (error) {
             console.error("Err: ", error);
