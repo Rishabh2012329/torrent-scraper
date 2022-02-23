@@ -13,8 +13,9 @@ const scraper = new Scraper("https://proxybay.github.io")
 const start = async () =>{
     await scraper.init()
 }
-start()
+
 app.post('/getMagnet',async (req,res)=>{
+    await start()
     const name = req.body.name
     const data = await scraper.scrapeData(name)
     res.send({data})

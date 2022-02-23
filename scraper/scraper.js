@@ -18,14 +18,13 @@ export class Scraper{
     // initializing scrapper
     async init() {
         try {
-            this.browser=await chromium.puppeteer.launch({
-                args: chromium.args,
+            this.browser= await chromium.puppeteer.launch({
+                args: [...chromium.args, "--hide-scrollbars", "--disable-web-security"],
                 defaultViewport: chromium.defaultViewport,
                 executablePath: await chromium.executablePath,
-                headless: chromium.headless,
+                headless: true,
                 ignoreHTTPSErrors: true,
-              });
-            
+              })
         } catch (error) {
             console.error("Err: ", error);
         }
@@ -143,6 +142,7 @@ export class Scraper{
                     console.log(data.length)
                 }
                 console.log("final Data",data)
+                this.browser.close()
                 resolve(data) 
            }catch(err){
                 console.log("Error: ",err)
