@@ -18,7 +18,7 @@ app.get('/',(req,res)=>{
     res.send({message:"ok"})
 })
 
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 5050
 app.listen(port,()=>{
     console.log("application started at Port ",port)
 })
