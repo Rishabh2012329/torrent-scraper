@@ -2,6 +2,7 @@ import { load } from 'cheerio';
 import fetch from 'node-fetch';
 import fs from 'fs'
 import puppeteer from 'puppeteer'
+import chromium from 'chrome-aws-lambda'
 
 // maintains the current scraping page
 let COUNT=1;
@@ -14,11 +15,13 @@ export class Scraper{
         this.totalPages=0
         this.questions={}
         let make = async ()=>{
-            this.browser=await puppeteer.launch({
-                headless: false,
-                args: ["--disable-setuid-sandbox"],
-                'ignoreHTTPSErrors': true
-            });
+            this.browser=await chromium.puppeteer.launch({
+                args: chromium.args,
+                defaultViewport: chromium.defaultViewport,
+                executablePath: await chromium.executablePath,
+                headless: chromium.headless,
+                ignoreHTTPSErrors: true,
+              });
         }
         make()
        
