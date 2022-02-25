@@ -18,18 +18,24 @@ export class Scraper{
     // initializing scrapper
     async init() {
         try {
+            await this.browser?.close()
             this.browser= await puppeteer.launch({
                 args: [ "--hide-scrollbars", "--disable-web-security","--no-sandbox",'--disable-setuid-sandbox'],
                 headless: true,
                 ignoreHTTPSErrors: true,
               })
+            return {}
         } catch (error) {
             console.error("Err: ", error);
+            return {error}
         }
     }
     async scrapeData(name){
         console.log(name)
-        return await this.scrapeQuestionsList(this.url, name)
+        return await this.scrapeQuestionsList(this.url, name).catch(err=>{
+            console.log("Err: ",err)
+            return []
+        })
     }
     async getMagnetUrl(url, browser){
         try{
