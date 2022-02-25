@@ -97,8 +97,10 @@ export class Scraper{
                 resolve()
             })
         })
+
         console.log(p)
        await Promise.all(p)
+       data = data.filter(obj=>obj.magnetUrl!="")
     return data
         
 	} catch (err) {
