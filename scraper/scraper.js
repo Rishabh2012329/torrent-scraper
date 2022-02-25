@@ -35,7 +35,7 @@ export class Scraper{
         try{
             console.log(url)
             let page = await browser.newPage();
-            await page.goto(url)
+            await page.goto(url,{timeout:2000})
             let data = await page.evaluate(() => {
                 let result=[]
                 let items = document.querySelectorAll('#d')
